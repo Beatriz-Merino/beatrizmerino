@@ -1,4 +1,4 @@
-# Beatriz Merino
+# Beatriz-Merino
 
 Practical AI, prompt design, content systems, lightweight automation and strategic digital workflows.
 
